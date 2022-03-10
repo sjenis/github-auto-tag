@@ -33,7 +33,7 @@
       "conditions": [
         {
           "type": "descriptionMatches",
-          "pattern": "canvas"
+          "pattern": "canvas|schoology"
         },
         {
           "type": "titleMatches",
