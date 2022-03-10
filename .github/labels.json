@@ -9,6 +9,21 @@
       "name": "integrations",
       "colour": "#00000f",
       "description": "integrations label"
+    },
+    "IDE": {
+      "name": "IDE",
+      "colour": "#ff0000",
+      "description": "IDE label"
+    },
+    "grading": {
+      "name": "grading",
+      "colour": "#00f000",
+      "description": "grading label"
+    },
+    "sales": {
+      "name": "sales",
+      "colour": "#00ff00",
+      "description": "sales label"
     }
   },
   "issue": {
@@ -17,11 +32,11 @@
       "conditions": [
         {
           "type": "descriptionMatches",
-          "pattern": "quiz"
+          "pattern": "quiz|assesment|exam"
         },
         {
           "type": "titleMatches",
-          "pattern": "quiz"
+          "pattern": "quiz|assesment|exam"
         },
         {
           "type": "isOpen"
@@ -33,11 +48,59 @@
       "conditions": [
         {
           "type": "descriptionMatches",
-          "pattern": "canvas|schoology"
+          "pattern": "integration|canvas|schoology|google classroom|clever|d2l|desire to learn|classlink"
         },
         {
           "type": "titleMatches",
-          "pattern": "canvas"
+          "pattern": "integration|canvas|schoology|google classroom|clever|d2l|desire to learn|classlink"
+        },
+        {
+          "type": "isOpen"
+        }
+      ]
+    },
+    "IDE": {
+      "requires": 1,
+      "conditions": [
+        {
+          "type": "descriptionMatches",
+          "pattern": "ide|IDE|abacus"
+        },
+        {
+          "type": "titleMatches",
+          "pattern": "ide|IDE|abacus"
+        },
+        {
+          "type": "isOpen"
+        }
+      ]
+    },
+    "grading": {
+      "requires": 1,
+      "conditions": [
+        {
+          "type": "descriptionMatches",
+          "pattern": "grade|grading"
+        },
+        {
+          "type": "titleMatches",
+          "pattern": "grade|grading"
+        },
+        {
+          "type": "isOpen"
+        }
+      ]
+    },
+    "sales": {
+      "requires": 1,
+      "conditions": [
+        {
+          "type": "descriptionMatches",
+          "pattern": "sales|contract|checkout|qr|quote request|invoice|ae|am"
+        },
+        {
+          "type": "titleMatches",
+          "pattern": "sales|contract|checkout|qr|quote request|invoice|ae|am"
         },
         {
           "type": "isOpen"
