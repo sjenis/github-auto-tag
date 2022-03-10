@@ -1,13 +1,18 @@
 {
   "labels": {
-    "example": {
+    "quiz": {
       "name": "quiz",
       "colour": "#0000ff",
       "description": "quiz label"
+    },
+    "integrations": {
+      "name": "integrations",
+      "colour": "#00000f",
+      "description": "integrations label"
     }
   },
   "issue": {
-    "example": {
+    "quiz": {
       "requires": 1,
       "conditions": [
         {
@@ -17,6 +22,22 @@
         {
           "type": "titleMatches",
           "pattern": "quiz"
+        },
+        {
+          "type": "isOpen"
+        }
+      ]
+    },
+    "integrations": {
+      "requires": 1,
+      "conditions": [
+        {
+          "type": "descriptionMatches",
+          "pattern": "canvas"
+        },
+        {
+          "type": "titleMatches",
+          "pattern": "canvas"
         },
         {
           "type": "isOpen"
