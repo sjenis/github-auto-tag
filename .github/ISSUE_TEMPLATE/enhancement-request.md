@@ -1,6 +1,6 @@
 ---
 name: Enhancement request
-about: Suggest an idea for this project
+about: a teacher is requesting a change or improvement to an existing feature
 title: ''
 labels: enhancement
 assignees: ''

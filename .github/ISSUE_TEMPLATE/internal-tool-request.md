@@ -1,9 +1,8 @@
 ---
-name: Feature request
-about: a teacher, admin, or team member is requesting a new feature that we do not
-  currently have
+name: Internal tool request
+about: a team member is requesting an internal tool
 title: ''
-labels: feature
+labels: internal tools
 assignees: ''
 
 ---
@@ -20,7 +19,7 @@ Description of the request:
 Description of why this would be helpful:
 Is the feature related to a problem? Please describe:
 
-- Does this relate to an existing feature or tool on the site?:
-- Have you or another team member heard this before?:
+- Does this relate to an existing tool on the site?:
+- Have you or another team member made this request before?:
 
 **Screenshots:**

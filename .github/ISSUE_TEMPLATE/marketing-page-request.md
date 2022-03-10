@@ -1,5 +1,5 @@
 ---
-name: Marketing Page Request
+name: Marketing page request
 about: New marketing page requests or changes to current marketing pages
 title: ''
 labels: ''
