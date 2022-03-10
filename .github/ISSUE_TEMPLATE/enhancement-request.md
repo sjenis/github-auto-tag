@@ -13,15 +13,14 @@ assignees: ''
 Teacher name:
 Teacher email:
 
-## Qualitative Description
-
-Description of the request:
-Description of why this would be helpful:
-Is the feature related to a problem? Please describe?
-
 - Is this an internal or external request?:
 - Who is requesting this change? (team, teacher, admin):
-- What is the being requested?:
+
+## Qualitative Description
+
+- Description of the request:
+- Description of why this would be helpful:
+- Is the feature related to a problem? Please describe?
 - Does this relate to an existing tool on the site?:
 - Have you or another team member heard this request before?:
 
