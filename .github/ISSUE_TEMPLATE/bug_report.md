@@ -8,7 +8,7 @@ assignees: ''
 ---
 
 ### Type of request: Bug, Feature, Enhancement
-[What’s the difference?](https://www.notion.so/codehs/How-to-Write-a-Good-GitHub-Issue-01a6f96d77804e43b4c4372b207097d1#f4b25f6553ef4203a89b4f2346d77ac3)
+What’s the difference? - https://codehs.com/internal/github
 
 # Bug
 ## Basic Information
