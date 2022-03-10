@@ -32,11 +32,11 @@
       "conditions": [
         {
           "type": "descriptionMatches",
-          "pattern": "quiz|assesment|exam"
+          "pattern": "quiz|assesment|exam|Quiz"
         },
         {
           "type": "titleMatches",
-          "pattern": "quiz|assesment|exam"
+          "pattern": "quiz|assesment|exam|Quiz"
         },
         {
           "type": "isOpen"
@@ -100,7 +100,7 @@
         },
         {
           "type": "titleMatches",
-          "pattern": "sales|contract|checkout|qr|quote request|invoice|ae|am"
+          "pattern": "sales|contract|checkout|qr|quote request|invoice"
         },
         {
           "type": "isOpen"
