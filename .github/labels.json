@@ -96,7 +96,7 @@
       "conditions": [
         {
           "type": "descriptionMatches",
-          "pattern": "sales|contract|checkout|qr|quote request|invoice|ae|am"
+          "pattern": "sales|contract|checkout|qr|quote request|invoice"
         },
         {
           "type": "titleMatches",
