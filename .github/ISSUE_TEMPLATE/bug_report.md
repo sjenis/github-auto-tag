@@ -6,10 +6,6 @@ labels: bug
 assignees: ''
 
 ---
-
-### Type of request: Bug, Feature, Enhancement
-What’s the difference? - https://codehs.com/internal/github
-
 # Bug
 ## Basic Information
 
