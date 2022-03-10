@@ -1,0 +1,28 @@
+{
+  "labels": {
+    "example": {
+      "name": "quiz",
+      "colour": "#0000ff",
+      "description": "quiz label"
+    }
+  },
+  "issue": {
+    "example": {
+      "requires": 1,
+      "conditions": [
+        {
+          "type": "descriptionMatches",
+          "pattern": "quiz"
+        },
+        {
+          "type": "titleMatches",
+          "pattern": "quiz"
+        },
+        {
+          "type": "isOpen"
+        }
+      ]
+    }
+  },
+  "pr": {}
+}
