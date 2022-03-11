@@ -53,9 +53,6 @@
         {
           "type": "titleMatches",
           "pattern": "/integration|canvas|schoology|google classroom|clever|d2l|desire to learn|classlink/i"
-        },
-        {
-          "type": "isOpen"
         }
       ]
     },
