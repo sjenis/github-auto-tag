@@ -37,9 +37,6 @@
         {
           "type": "titleMatches",
           "pattern": "quiz|assesment|exam|Quiz"
-        },
-        {
-          "type": "isOpen"
         }
       ]
     },
@@ -66,9 +63,6 @@
         {
           "type": "titleMatches",
           "pattern": "ide|IDE|abacus"
-        },
-        {
-          "type": "isOpen"
         }
       ]
     },
@@ -82,9 +76,6 @@
         {
           "type": "titleMatches",
           "pattern": "grade|grading"
-        },
-        {
-          "type": "isOpen"
         }
       ]
     },
@@ -98,9 +89,6 @@
         {
           "type": "titleMatches",
           "pattern": "sales|contract|checkout|qr|quote request|invoice"
-        },
-        {
-          "type": "isOpen"
         }
       ]
     }
