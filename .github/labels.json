@@ -52,11 +52,8 @@
         },
         {
           "type": "titleMatches",
-          "pattern": "integration|canvas|schoology|google classroom|clever|d2l|desire to learn|classlink/i"
+          "pattern": "integration|canvas|schoology|google classroom|clever|d2l|desire to learn|classlink"
         },
-        {
-          "type": "isOpen"
-        }
       ]
     },
     "IDE": {
