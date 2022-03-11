@@ -2,7 +2,7 @@
   "labels": {
     "quiz": {
       "name": "quiz",
-      "colour": "#0000ff",
+      "colour": "#000fff",
       "description": "quiz label"
     },
     "integrations": {
