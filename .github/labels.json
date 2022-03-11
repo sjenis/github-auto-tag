@@ -54,6 +54,9 @@
           "type": "titleMatches",
           "pattern": "(?i)integration|canvas|schoology|google classroom|clever|d2l|desire to learn|classlink"
         },
+        {
+          "type": "isOpen"
+        }
       ]
     },
     "IDE": {
@@ -67,6 +70,9 @@
           "type": "titleMatches",
           "pattern": "ide|IDE|abacus"
         },
+        {
+          "type": "isOpen"
+        }
       ]
     },
     "grading": {
@@ -80,6 +86,9 @@
           "type": "titleMatches",
           "pattern": "grade|grading"
         },
+        {
+          "type": "isOpen"
+        }
       ]
     },
     "sales": {
@@ -93,6 +102,9 @@
           "type": "titleMatches",
           "pattern": "sales|contract|checkout|qr|quote request|invoice"
         },
+        {
+          "type": "isOpen"
+        }
       ]
     }
   },
