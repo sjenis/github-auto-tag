@@ -48,12 +48,15 @@
       "conditions": [
         {
           "type": "descriptionMatches",
-          "pattern": "integration|canvas|schoology|google classroom|clever|d2l|desire to learn|classlink"
+          "pattern": "/integration|canvas|schoology|google classroom|clever|d2l|desire to learn|classlink/i"
         },
         {
           "type": "titleMatches",
-          "pattern": "integration|canvas|schoology|google classroom|clever|d2l|desire to learn|classlink"
+          "pattern": "/integration|canvas|schoology|google classroom|clever|d2l|desire to learn|classlink/i"
         },
+        {
+          "type": "isOpen"
+        }
       ]
     },
     "IDE": {
