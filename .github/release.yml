@@ -3,16 +3,42 @@ changelog:
   exclude:
     labels:
       - ignore-for-release
-      - internal-tools
-    authors:
-      - sjenis
   categories:
-    - title: Bug Fixes 🛠
+		- title: New Features 🎉
       labels:
-        - bug-fix
-    - title: Exciting New Features 🎉
-      labels:
+        - feature
         - enhancement
-    - title: IDE Changes
+    - title: Bug Fixes 🐞
+      labels:
+        - bugfix
+				- bug
+				- Firefighter
+				- hotfix
+		- title: Internal Tools 🛠
+				- internal tools
+		- title: IDE 🧮
       labels:
         - abacus
+				- IDE
+				- sandbox
+		- title: Marketing Pages 🖥
+      labels:
+        - marketing
+    - title: Integrations 🔗
+      labels:
+        - integrations
+		- title: Sales 💵
+			labels:
+				- sales
+				- Contracts
+				- data
+				- salesforce
+		- title: Curriculum Tools 📝
+				- curriculum
+		- title: Elementary 🚍
+      labels:
+        - elementary
+		- title: Migrations 🕊
+			labels:
+				- migration
+		- title: Other ❓
