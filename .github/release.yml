@@ -4,8 +4,8 @@ changelog:
     labels:
       - ignore-for-release
   categories:
-     - title: New Features 🎉
-     labels:
+    - title: New Features 🎉
+      labels:
         - feature
         - enhancement
     - title: Bug Fixes 🐞
@@ -14,14 +14,15 @@ changelog:
         - bug
         - Firefighter
         - hotfix
-     - title: Internal Tools 🛠
+    - title: Internal Tools 🛠
+      labels:
         - internal tools
-     - title: IDE 🧮
+    - title: IDE 🧮
       labels:
         - abacus
         - IDE
         - sandbox
-     - title: Marketing Pages 🖥
+    - title: Marketing Pages 🖥
       labels:
         - marketing
     - title: Integrations 🔗
@@ -33,14 +34,15 @@ changelog:
         - Contracts
         - data
         - salesforce
-     - title: Curriculum Tools 📝
+    - title: Curriculum Tools 📝
+      labels:
         - curriculum
-     - title: Elementary 🚍
+    - title: Elementary 🚍
       labels:
         - elementary
-     - title: Migrations 🕊
-       labels:
+    - title: Migrations 🕊
+      labels:
         - migration
-     - title: Other ❓
-       labels:
+    - title: Other ❓
+      labels:
         - "*"
