@@ -1,0 +1,18 @@
+# .github/release.yml
+changelog:
+  exclude:
+    labels:
+      - ignore-for-release
+      - internal-tools
+    authors:
+      - sjenis
+  categories:
+    - title: Bug Fixes 🛠
+      labels:
+        - bug-fix
+    - title: Exciting New Features 🎉
+      labels:
+        - enhancement
+    - title: IDE Changes
+      labels:
+        - abacus
