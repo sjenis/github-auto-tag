@@ -11,16 +11,16 @@ changelog:
     - title: Bug Fixes 🐞
       labels:
         - bugfix
-	- bug
-	- Firefighter
-	- hotfix
+        - bug
+        - Firefighter
+        - hotfix
      - title: Internal Tools 🛠
-	- internal tools
+        - internal tools
      - title: IDE 🧮
       labels:
         - abacus
-	- IDE
-	- sandbox
+        - IDE
+        - sandbox
      - title: Marketing Pages 🖥
       labels:
         - marketing
@@ -29,18 +29,18 @@ changelog:
         - integrations
     - title: Sales 💵
       labels:
-	- sales
-	- Contracts
-	- data
-	- salesforce
+        - sales
+        - Contracts
+        - data
+        - salesforce
      - title: Curriculum Tools 📝
-	- curriculum
+        - curriculum
      - title: Elementary 🚍
       labels:
         - elementary
      - title: Migrations 🕊
        labels:
-     	- migration
+        - migration
      - title: Other ❓
        labels:
-     	- "*"
+        - "*"
