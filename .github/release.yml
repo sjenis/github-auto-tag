@@ -42,3 +42,5 @@ changelog:
        labels:
      	- migration
      - title: Other ❓
+       labels:
+     	- "*"
