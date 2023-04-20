@@ -1,7 +1,7 @@
 name: Add opened PRs to Code Review project
 
 on:
-  pull_request:
+  issues:
     types:
       - opened
 
