@@ -12,6 +12,6 @@ jobs:
     name: Label issues and pull requests
     steps:
       - uses: actions/checkout@v2
-      - uses: IvanFon/super-labeler-action@v1
+      - uses: Videndum/super-labeler-action@1.1.0
         with:
-          github-token: '${{ secrets.GITHUB_TOKEN }}'
+          GITHUB_TOKEN: '${{ secrets.GITHUB_TOKEN }}'
